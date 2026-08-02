@@ -447,7 +447,3 @@ The last cell exports the two trained checkpoints for download as
 - Wrap `run_inference` in the already-imported `gradio` dependency for a simple upload-a-scan demo.
 
 ---
-
-*This README was generated from the notebook's markdown cells, code, and actual execution output
-(including the embedded figures) to document what the pipeline does and how it performed on its
-most recent run.*
