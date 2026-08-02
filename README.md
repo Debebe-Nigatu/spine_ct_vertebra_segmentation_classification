@@ -128,7 +128,6 @@ Key libraries:
 | `tcia_utils` | Programmatic download of the TCIA collection |
 | `torch` | Model definition and training |
 | `pandas` / `openpyxl` | Parsing the clinical Excel table |
-| `gradio` | (reserved for an optional demo UI) |
 
 The single most important dependency call-out in the notebook is **`pydicom-seg`** — the DICOM-SEG
 files in this collection are multi-segment objects (one file can contain 15+ distinct vertebra
